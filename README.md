@@ -1,6 +1,6 @@
 # basic-tutorial
 
-# GIT 
+## GIT tutorial
 ```
 git clone <source clone>
 git config --global user.email "thao.duong@rtrobotics.com"
@@ -17,5 +17,9 @@ git stash pop
 
 # Switched to branch 'another'
 git checkout another
+
+# Use a personal access token
+https://viblo.asia/p/git-go-bo-xac-thuc-mat-khau-phai-lam-sao-please-use-a-personal-access-token-instead-aWj53odb5
 ```
+
  
