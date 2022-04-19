@@ -3,8 +3,8 @@
 ## GIT tutorial
 ```
 git clone <source clone>
-git config --global user.email "thao.duong@rtrobotics.com"
-git config --global user.name "rtr_intern_thaodlt"
+git config --global user.email "<your-mail>"
+git config --global user.name "<your-user-name>"
 git add ./<file> 
 git commit -m "type msg"
 git push 
